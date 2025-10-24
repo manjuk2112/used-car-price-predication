@@ -1,0 +1,1001 @@
+car_model,year,km_driven,fuel_type,transmission,seller_type,owner,selling_price
+Hyundai i20,2009,70273,LPG,Automatic,Dealer,First Owner,761573
+Mercedes C-Class,2021,147165,CNG,Automatic,Dealer,Second Owner,854651
+Ford Mustang,2002,227230,Petrol,Manual,Dealer,Third Owner,202668
+Kia Seltos,2007,144780,LPG,Manual,Dealer,Third Owner,318535
+Honda City,2007,152397,LPG,Manual,Dealer,Third Owner,315355
+Hyundai i20,2007,204493,Petrol,Automatic,Individual,Third Owner,1092076
+Maruti Swift,2016,99999,LPG,Manual,Individual,First Owner,746985
+Mercedes C-Class,2020,46934,Petrol,Automatic,Trustmark Dealer,Fourth & Above Owner,180714
+Audi Q7,2001,172164,Diesel,Automatic,Individual,First Owner,101655
+Kia Seltos,2022,236793,CNG,Automatic,Individual,Second Owner,234863
+Mercedes C-Class,2009,239197,CNG,Manual,Dealer,First Owner,376613
+Tata Nexon,2013,200689,Petrol,Manual,Dealer,Fourth & Above Owner,370829
+Kia Seltos,2012,24240,LPG,Manual,Trustmark Dealer,Fourth & Above Owner,803088
+Audi Q7,2001,10689,Diesel,Automatic,Dealer,First Owner,1241988
+Honda City,2019,82046,Diesel,Automatic,Dealer,First Owner,1333146
+Mercedes C-Class,2011,291435,LPG,Manual,Individual,Third Owner,1505572
+Maruti Swift,2001,200286,LPG,Automatic,Individual,First Owner,1317636
+Tata Nexon,2014,163334,LPG,Manual,Individual,First Owner,1006633
+Kia Seltos,2019,15263,Petrol,Manual,Dealer,Fourth & Above Owner,778286
+Maruti Swift,2003,51157,Petrol,Manual,Trustmark Dealer,Second Owner,733329
+Honda City,2004,258907,CNG,Automatic,Trustmark Dealer,Fourth & Above Owner,109335
+Audi Q7,2014,221204,CNG,Automatic,Individual,First Owner,1362312
+Audi Q7,2021,250987,LPG,Automatic,Dealer,Third Owner,771806
+Tata Nexon,2019,248594,Diesel,Automatic,Trustmark Dealer,Second Owner,454153
+Mercedes C-Class,2002,103587,Electric,Automatic,Individual,Second Owner,1396007
+Honda City,2013,39022,Petrol,Automatic,Individual,First Owner,1737355
+Audi Q7,2020,103983,Electric,Automatic,Dealer,Third Owner,121967
+Ford Mustang,2009,187803,LPG,Automatic,Individual,First Owner,1101884
+Honda City,2010,197671,CNG,Manual,Individual,Third Owner,1774261
+Maruti Swift,2019,61924,Petrol,Automatic,Individual,Second Owner,1103646
+BMW X5,2000,217899,Electric,Manual,Trustmark Dealer,Second Owner,1811347
+Kia Seltos,2006,214962,LPG,Manual,Trustmark Dealer,Fourth & Above Owner,1681598
+Toyota Corolla,2023,178872,Electric,Automatic,Dealer,Fourth & Above Owner,433117
+Ford Mustang,2010,24740,LPG,Automatic,Individual,First Owner,1936071
+Tata Nexon,2011,267275,Diesel,Manual,Trustmark Dealer,Third Owner,1069381
+Audi Q7,2020,95911,CNG,Automatic,Individual,Third Owner,516613
+Honda City,2006,112369,Diesel,Manual,Trustmark Dealer,Second Owner,708885
+Ford Mustang,2016,176207,CNG,Automatic,Individual,Third Owner,706762
+Tata Nexon,2004,19513,Petrol,Automatic,Dealer,Fourth & Above Owner,1202059
+Kia Seltos,2008,104188,Diesel,Manual,Individual,First Owner,495027
+Ford Mustang,2013,63511,Petrol,Manual,Individual,Third Owner,560782
+BMW X5,2000,132226,LPG,Manual,Dealer,Second Owner,1645113
+BMW X5,2015,268003,Petrol,Automatic,Individual,First Owner,574988
+Honda City,2022,218724,Petrol,Manual,Individual,Third Owner,1812702
+Tata Nexon,2008,243199,Petrol,Manual,Trustmark Dealer,First Owner,1161897
+Kia Seltos,2005,46691,LPG,Automatic,Trustmark Dealer,Second Owner,560666
+Toyota Corolla,2019,159916,Diesel,Manual,Dealer,Fourth & Above Owner,1894209
+Maruti Swift,2021,79060,Diesel,Manual,Dealer,Third Owner,385368
+Audi Q7,2012,222534,CNG,Automatic,Dealer,Fourth & Above Owner,1690891
+Tata Nexon,2022,120122,CNG,Automatic,Dealer,Fourth & Above Owner,1900241
+Toyota Corolla,2016,37350,Electric,Manual,Individual,Fourth & Above Owner,130276
+Toyota Corolla,2011,254192,Petrol,Manual,Dealer,Third Owner,1532978
+Hyundai i20,2009,278415,Diesel,Manual,Trustmark Dealer,Second Owner,629985
+Tata Nexon,2001,188625,LPG,Manual,Individual,Fourth & Above Owner,622584
+Hyundai i20,2011,217601,Electric,Manual,Dealer,Fourth & Above Owner,921475
+Tata Nexon,2014,180490,Petrol,Automatic,Dealer,First Owner,775555
+Audi Q7,2002,178284,Electric,Automatic,Dealer,Third Owner,1736103
+Hyundai i20,2007,263184,Diesel,Manual,Trustmark Dealer,Second Owner,1311624
+Tata Nexon,2006,185780,LPG,Manual,Individual,First Owner,1003019
+Audi Q7,2011,72204,CNG,Automatic,Trustmark Dealer,First Owner,341219
+Audi Q7,2022,60562,Electric,Automatic,Trustmark Dealer,Third Owner,1203304
+Honda City,2005,129537,LPG,Automatic,Dealer,First Owner,1309197
+Mercedes C-Class,2014,52306,CNG,Automatic,Dealer,First Owner,825048
+Kia Seltos,2014,238539,Diesel,Manual,Dealer,Third Owner,994780
+Honda City,2020,218840,Petrol,Manual,Dealer,Fourth & Above Owner,1006316
+BMW X5,2006,81266,Electric,Manual,Individual,Fourth & Above Owner,1333848
+Hyundai i20,2006,148616,LPG,Automatic,Dealer,Third Owner,750353
+Toyota Corolla,2006,241926,Petrol,Manual,Trustmark Dealer,Third Owner,1389659
+Tata Nexon,2005,199385,LPG,Manual,Dealer,First Owner,1254097
+Kia Seltos,2015,257230,LPG,Automatic,Dealer,Third Owner,1375348
+Maruti Swift,2007,256268,CNG,Manual,Individual,Fourth & Above Owner,242261
+Hyundai i20,2003,187129,LPG,Automatic,Individual,Second Owner,1346350
+Maruti Swift,2020,185088,Electric,Manual,Trustmark Dealer,Second Owner,560812
+Toyota Corolla,2017,30056,CNG,Manual,Individual,Third Owner,1508926
+Toyota Corolla,2014,171808,Petrol,Manual,Trustmark Dealer,Third Owner,271291
+Kia Seltos,2006,286611,LPG,Manual,Trustmark Dealer,Third Owner,677697
+Hyundai i20,2011,284530,CNG,Manual,Individual,Third Owner,1616948
+BMW X5,2000,88480,LPG,Manual,Dealer,Fourth & Above Owner,1847636
+Tata Nexon,2008,208805,Diesel,Automatic,Dealer,Second Owner,1174315
+Maruti Swift,2004,234587,Petrol,Automatic,Dealer,Third Owner,390593
+Tata Nexon,2018,110790,LPG,Manual,Individual,Third Owner,524305
+Tata Nexon,2000,214263,Electric,Manual,Individual,Second Owner,1807156
+Audi Q7,2011,16082,Petrol,Automatic,Dealer,Second Owner,1541485
+Toyota Corolla,2019,268617,Petrol,Automatic,Individual,First Owner,1999018
+Maruti Swift,2021,262814,LPG,Manual,Individual,First Owner,1072218
+Maruti Swift,2008,156782,Diesel,Automatic,Trustmark Dealer,Fourth & Above Owner,1367449
+BMW X5,2018,29210,CNG,Manual,Trustmark Dealer,Fourth & Above Owner,631934
+Toyota Corolla,2017,273473,LPG,Manual,Dealer,Second Owner,1068184
+Honda City,2014,72931,Petrol,Automatic,Trustmark Dealer,Second Owner,1515443
+Toyota Corolla,2021,167640,Diesel,Automatic,Trustmark Dealer,Third Owner,612620
+Ford Mustang,2012,53588,Petrol,Automatic,Dealer,Second Owner,1116908
+Maruti Swift,2006,109538,LPG,Automatic,Trustmark Dealer,Second Owner,1295812
+Honda City,2018,171000,Diesel,Automatic,Dealer,Third Owner,760934
+Honda City,2007,294597,LPG,Manual,Individual,Second Owner,1904102
+Honda City,2005,159868,Petrol,Automatic,Trustmark Dealer,Second Owner,1243361
+Hyundai i20,2002,174087,Electric,Automatic,Individual,Fourth & Above Owner,327046
+BMW X5,2021,141221,Diesel,Manual,Individual,Third Owner,1438590
+Kia Seltos,2017,289739,Diesel,Automatic,Individual,Third Owner,1807132
+Honda City,2016,104792,Diesel,Automatic,Individual,Fourth & Above Owner,952015
+Honda City,2016,229629,LPG,Automatic,Trustmark Dealer,Second Owner,1295519
+Ford Mustang,2014,22561,Diesel,Automatic,Trustmark Dealer,Third Owner,1015013
+Ford Mustang,2001,232954,Diesel,Automatic,Dealer,Third Owner,1316301
+Hyundai i20,2013,62320,LPG,Manual,Individual,Second Owner,697613
+Kia Seltos,2003,292110,Petrol,Automatic,Individual,Fourth & Above Owner,599141
+Hyundai i20,2006,182691,CNG,Manual,Trustmark Dealer,First Owner,785236
+Audi Q7,2008,95932,CNG,Automatic,Individual,First Owner,1010257
+Toyota Corolla,2013,147411,Diesel,Automatic,Trustmark Dealer,Fourth & Above Owner,226501
+Ford Mustang,2008,71957,Diesel,Automatic,Dealer,Third Owner,1076435
+Tata Nexon,2002,28053,Electric,Manual,Individual,Second Owner,1850207
+Ford Mustang,2005,189276,CNG,Manual,Dealer,Third Owner,1905385
+Honda City,2023,181534,LPG,Manual,Dealer,Fourth & Above Owner,649688
+Ford Mustang,2007,232944,Petrol,Automatic,Dealer,First Owner,1152695
+Tata Nexon,2016,166456,Diesel,Manual,Dealer,Second Owner,109343
+Ford Mustang,2023,244762,Petrol,Automatic,Trustmark Dealer,Third Owner,1094747
+Ford Mustang,2015,248485,Petrol,Automatic,Dealer,Second Owner,994683
+Audi Q7,2022,138299,Electric,Manual,Trustmark Dealer,Third Owner,1983235
+Maruti Swift,2020,159605,LPG,Automatic,Dealer,Second Owner,1721707
+Audi Q7,2021,99470,LPG,Automatic,Individual,Second Owner,1413189
+Audi Q7,2013,61409,Diesel,Manual,Trustmark Dealer,Fourth & Above Owner,1015853
+Honda City,2001,62237,Petrol,Automatic,Trustmark Dealer,First Owner,616711
+Kia Seltos,2019,176717,Diesel,Automatic,Individual,Fourth & Above Owner,1539062
+Ford Mustang,2023,264198,Diesel,Manual,Dealer,First Owner,1045382
+BMW X5,2004,72017,LPG,Manual,Trustmark Dealer,Fourth & Above Owner,1987395
+Kia Seltos,2005,123248,CNG,Automatic,Individual,Third Owner,195029
+Hyundai i20,2011,230877,Diesel,Automatic,Dealer,Second Owner,1050094
+Toyota Corolla,2005,22271,LPG,Automatic,Trustmark Dealer,First Owner,842079
+Tata Nexon,2023,214938,Electric,Automatic,Dealer,First Owner,1151229
+Tata Nexon,2011,44922,Diesel,Manual,Individual,Second Owner,1027165
+Toyota Corolla,2009,121187,Electric,Automatic,Individual,First Owner,130660
+Honda City,2023,146052,Petrol,Automatic,Trustmark Dealer,Third Owner,1985342
+BMW X5,2014,249223,Diesel,Manual,Individual,Fourth & Above Owner,302861
+Honda City,2023,221074,Diesel,Manual,Trustmark Dealer,Fourth & Above Owner,404834
+BMW X5,2021,139043,CNG,Manual,Trustmark Dealer,Second Owner,103574
+Ford Mustang,2020,134039,Petrol,Manual,Trustmark Dealer,First Owner,508678
+BMW X5,2004,269295,Electric,Automatic,Dealer,Fourth & Above Owner,963605
+BMW X5,2004,173772,LPG,Manual,Dealer,Third Owner,1967557
+Toyota Corolla,2020,189127,Petrol,Manual,Trustmark Dealer,First Owner,1386109
+Toyota Corolla,2006,39013,Diesel,Automatic,Dealer,Fourth & Above Owner,152745
+Kia Seltos,2002,246865,LPG,Manual,Trustmark Dealer,First Owner,1622117
+Tata Nexon,2008,218294,Diesel,Manual,Individual,Fourth & Above Owner,549450
+Tata Nexon,2004,174054,LPG,Automatic,Dealer,Third Owner,399504
+Ford Mustang,2017,97824,CNG,Manual,Dealer,First Owner,1871131
+Toyota Corolla,2002,142451,Petrol,Manual,Dealer,Third Owner,1027038
+Ford Mustang,2016,125340,Electric,Manual,Individual,Third Owner,806931
+Honda City,2007,169333,Petrol,Manual,Individual,Third Owner,832304
+Maruti Swift,2022,265667,CNG,Automatic,Individual,Third Owner,1167373
+Mercedes C-Class,2008,70686,Diesel,Manual,Trustmark Dealer,Second Owner,1991725
+Maruti Swift,2015,29922,LPG,Manual,Trustmark Dealer,First Owner,849364
+Audi Q7,2014,204972,Petrol,Automatic,Individual,Second Owner,1760915
+BMW X5,2023,111329,Electric,Automatic,Dealer,Second Owner,1846710
+Ford Mustang,2017,26516,Petrol,Manual,Trustmark Dealer,Second Owner,1996807
+Maruti Swift,2002,97233,Petrol,Automatic,Trustmark Dealer,Fourth & Above Owner,1373066
+Tata Nexon,2020,141444,Petrol,Automatic,Dealer,Second Owner,1795122
+Maruti Swift,2008,174910,Petrol,Manual,Individual,Fourth & Above Owner,189697
+Hyundai i20,2004,115011,LPG,Manual,Dealer,First Owner,829575
+Hyundai i20,2001,297897,LPG,Automatic,Individual,Fourth & Above Owner,172258
+Honda City,2015,299033,LPG,Automatic,Dealer,Second Owner,1488946
+Maruti Swift,2016,256462,Diesel,Automatic,Trustmark Dealer,First Owner,1329800
+Ford Mustang,2008,114080,LPG,Manual,Individual,Second Owner,343287
+Honda City,2003,42359,LPG,Manual,Trustmark Dealer,Fourth & Above Owner,960065
+Toyota Corolla,2022,150651,Petrol,Manual,Dealer,First Owner,1636284
+Tata Nexon,2018,32070,Petrol,Manual,Individual,Fourth & Above Owner,901756
+Maruti Swift,2006,297209,Petrol,Manual,Trustmark Dealer,First Owner,1839338
+Kia Seltos,2011,10552,Electric,Manual,Individual,Fourth & Above Owner,256670
+Honda City,2017,246274,LPG,Manual,Dealer,First Owner,1600138
+Maruti Swift,2011,221837,CNG,Automatic,Trustmark Dealer,Third Owner,1981778
+Kia Seltos,2000,228379,LPG,Automatic,Trustmark Dealer,Third Owner,1899569
+Toyota Corolla,2020,193762,Electric,Manual,Individual,Second Owner,1002192
+Mercedes C-Class,2010,21905,Petrol,Automatic,Individual,Third Owner,1783761
+Audi Q7,2008,27867,LPG,Automatic,Individual,Third Owner,1530395
+Ford Mustang,2001,40855,CNG,Automatic,Dealer,First Owner,1408861
+Kia Seltos,2002,81286,CNG,Automatic,Individual,First Owner,692889
+Kia Seltos,2019,11181,Petrol,Manual,Dealer,Second Owner,705139
+Kia Seltos,2005,89498,Diesel,Manual,Individual,Second Owner,921507
+Kia Seltos,2003,7031,LPG,Manual,Individual,Fourth & Above Owner,741177
+Maruti Swift,2020,131530,Petrol,Manual,Dealer,First Owner,778769
+Tata Nexon,2017,193893,Petrol,Manual,Trustmark Dealer,First Owner,116562
+Hyundai i20,2001,157844,CNG,Manual,Individual,Second Owner,266043
+Tata Nexon,2020,67338,Electric,Manual,Trustmark Dealer,First Owner,1413300
+BMW X5,2021,262845,Petrol,Manual,Trustmark Dealer,Third Owner,946385
+Maruti Swift,2022,254153,LPG,Automatic,Dealer,Second Owner,1671045
+BMW X5,2008,40083,Electric,Automatic,Trustmark Dealer,Second Owner,1889729
+BMW X5,2023,39616,Petrol,Automatic,Individual,First Owner,1867760
+Audi Q7,2016,287113,CNG,Manual,Dealer,Fourth & Above Owner,922815
+Toyota Corolla,2017,138731,LPG,Automatic,Individual,First Owner,611877
+Kia Seltos,2009,29650,Diesel,Automatic,Trustmark Dealer,Second Owner,1368041
+Mercedes C-Class,2018,224970,Petrol,Manual,Individual,First Owner,1233456
+Kia Seltos,2004,68503,Diesel,Manual,Individual,Fourth & Above Owner,1228357
+Honda City,2012,285876,Petrol,Automatic,Trustmark Dealer,Third Owner,282025
+Tata Nexon,2011,244143,LPG,Automatic,Trustmark Dealer,Third Owner,208369
+Mercedes C-Class,2015,14596,Diesel,Manual,Individual,Fourth & Above Owner,1088922
+Toyota Corolla,2023,148794,Diesel,Automatic,Individual,First Owner,268654
+Ford Mustang,2007,229355,Diesel,Manual,Trustmark Dealer,Third Owner,1845079
+BMW X5,2012,52087,CNG,Automatic,Dealer,Third Owner,607070
+BMW X5,2017,144143,LPG,Manual,Trustmark Dealer,Third Owner,486987
+Tata Nexon,2022,133364,LPG,Manual,Dealer,Third Owner,356730
+Honda City,2016,116116,Electric,Manual,Dealer,Second Owner,123519
+Toyota Corolla,2005,221518,Electric,Automatic,Individual,First Owner,908908
+Toyota Corolla,2017,137407,Diesel,Automatic,Trustmark Dealer,Third Owner,1711086
+BMW X5,2001,122437,CNG,Manual,Trustmark Dealer,First Owner,1506751
+Toyota Corolla,2016,178468,Diesel,Automatic,Individual,Third Owner,411361
+Tata Nexon,2003,142288,LPG,Manual,Trustmark Dealer,Third Owner,156671
+Kia Seltos,2023,259206,Petrol,Manual,Trustmark Dealer,Fourth & Above Owner,1192870
+Honda City,2001,105590,LPG,Manual,Individual,Fourth & Above Owner,808214
+Kia Seltos,2011,265765,Petrol,Manual,Trustmark Dealer,Second Owner,564072
+Maruti Swift,2022,80971,LPG,Automatic,Dealer,First Owner,653091
+Maruti Swift,2004,46224,Electric,Automatic,Individual,Fourth & Above Owner,274657
+Maruti Swift,2010,104739,Petrol,Manual,Individual,First Owner,1022583
+Maruti Swift,2001,253897,Petrol,Manual,Trustmark Dealer,Second Owner,1956163
+Tata Nexon,2016,129813,Diesel,Automatic,Trustmark Dealer,Second Owner,1257298
+BMW X5,2017,213059,CNG,Manual,Individual,Fourth & Above Owner,1082203
+Toyota Corolla,2022,146754,Electric,Manual,Dealer,Second Owner,1485480
+Ford Mustang,2000,175054,Petrol,Manual,Individual,First Owner,965805
+Maruti Swift,2023,195644,LPG,Manual,Individual,First Owner,1013137
+Audi Q7,2009,174663,CNG,Automatic,Trustmark Dealer,First Owner,1040944
+BMW X5,2020,270591,Petrol,Automatic,Trustmark Dealer,Second Owner,679874
+Toyota Corolla,2010,120621,Petrol,Automatic,Individual,Fourth & Above Owner,873388
+Hyundai i20,2016,9331,Diesel,Manual,Trustmark Dealer,First Owner,709122
+Maruti Swift,2018,257390,Diesel,Automatic,Trustmark Dealer,First Owner,1614125
+Hyundai i20,2018,225142,CNG,Manual,Individual,Third Owner,969579
+Honda City,2016,87434,Petrol,Automatic,Individual,Third Owner,1169257
+Kia Seltos,2004,67089,CNG,Manual,Dealer,Fourth & Above Owner,512365
+Hyundai i20,2019,15469,LPG,Automatic,Dealer,Fourth & Above Owner,1945728
+BMW X5,2012,153547,Petrol,Manual,Dealer,Third Owner,1700110
+Toyota Corolla,2020,109165,LPG,Automatic,Individual,First Owner,1559152
+Tata Nexon,2010,9227,LPG,Automatic,Individual,Second Owner,1929806
+Audi Q7,2000,261290,LPG,Manual,Individual,Second Owner,1186697
+Hyundai i20,2016,276111,Electric,Manual,Trustmark Dealer,Second Owner,1988139
+BMW X5,2008,116351,LPG,Manual,Dealer,First Owner,942351
+Audi Q7,2014,128693,Petrol,Manual,Trustmark Dealer,Third Owner,1292278
+BMW X5,2013,9871,Petrol,Automatic,Dealer,Fourth & Above Owner,749764
+Tata Nexon,2016,176894,Diesel,Manual,Dealer,Second Owner,1938509
+Kia Seltos,2016,140499,LPG,Manual,Dealer,First Owner,541097
+Toyota Corolla,2017,128149,LPG,Manual,Dealer,Second Owner,154689
+Honda City,2005,187769,CNG,Automatic,Trustmark Dealer,Third Owner,765525
+Maruti Swift,2011,132886,CNG,Automatic,Individual,Third Owner,1898103
+Mercedes C-Class,2013,210192,LPG,Automatic,Trustmark Dealer,Fourth & Above Owner,344877
+Kia Seltos,2017,28738,LPG,Manual,Individual,Second Owner,1879676
+Kia Seltos,2001,259743,CNG,Automatic,Dealer,Second Owner,993710
+BMW X5,2022,180041,LPG,Automatic,Trustmark Dealer,First Owner,1537075
+Audi Q7,2003,153326,LPG,Automatic,Trustmark Dealer,Third Owner,360077
+BMW X5,2017,142367,Diesel,Automatic,Dealer,Second Owner,527761
+BMW X5,2014,225134,Electric,Automatic,Trustmark Dealer,Second Owner,1881188
+Honda City,2020,132155,Electric,Automatic,Individual,Fourth & Above Owner,688822
+Honda City,2020,47482,Electric,Automatic,Trustmark Dealer,Fourth & Above Owner,1182917
+Audi Q7,2021,114119,Petrol,Manual,Individual,Fourth & Above Owner,277687
+Ford Mustang,2016,75470,CNG,Automatic,Trustmark Dealer,Second Owner,1626681
+Toyota Corolla,2016,226058,Diesel,Manual,Dealer,Third Owner,436098
+Audi Q7,2020,137907,Electric,Automatic,Trustmark Dealer,Third Owner,297623
+Tata Nexon,2015,66586,Electric,Manual,Individual,Second Owner,240918
+Mercedes C-Class,2009,285482,CNG,Manual,Individual,Second Owner,362313
+Mercedes C-Class,2019,186295,Petrol,Automatic,Dealer,Third Owner,1959105
+Audi Q7,2019,64826,Diesel,Manual,Individual,First Owner,769599
+BMW X5,2003,158237,Petrol,Automatic,Dealer,First Owner,925354
+Tata Nexon,2003,283650,Diesel,Manual,Individual,Second Owner,1474531
+Kia Seltos,2016,22079,CNG,Manual,Dealer,Third Owner,1318773
+Tata Nexon,2019,222693,Diesel,Automatic,Trustmark Dealer,Third Owner,383918
+Ford Mustang,2011,29828,CNG,Manual,Dealer,Third Owner,825778
+Maruti Swift,2012,204954,Petrol,Manual,Individual,First Owner,1357560
+Ford Mustang,2011,84957,LPG,Automatic,Dealer,First Owner,139871
+Hyundai i20,2021,202620,Diesel,Manual,Dealer,Fourth & Above Owner,487048
+Tata Nexon,2004,11178,Petrol,Manual,Individual,Fourth & Above Owner,187841
+Hyundai i20,2011,101354,Diesel,Automatic,Dealer,Fourth & Above Owner,1559526
+Tata Nexon,2020,179890,LPG,Automatic,Dealer,First Owner,602056
+Kia Seltos,2010,289263,Electric,Automatic,Trustmark Dealer,Fourth & Above Owner,274973
+Maruti Swift,2002,180815,Petrol,Manual,Dealer,First Owner,1016369
+Maruti Swift,2003,216090,CNG,Automatic,Trustmark Dealer,First Owner,513767
+Ford Mustang,2007,24828,Petrol,Automatic,Individual,Third Owner,1252077
+Maruti Swift,2021,103470,Diesel,Manual,Individual,Fourth & Above Owner,1271209
+Maruti Swift,2003,36262,Diesel,Manual,Dealer,Second Owner,564460
+Ford Mustang,2019,84394,CNG,Manual,Trustmark Dealer,Third Owner,1784074
+Audi Q7,2020,227760,CNG,Automatic,Dealer,Third Owner,1674639
+BMW X5,2012,137188,CNG,Automatic,Dealer,Fourth & Above Owner,715760
+Hyundai i20,2017,241974,CNG,Manual,Dealer,First Owner,1820753
+Honda City,2006,260149,Diesel,Manual,Trustmark Dealer,Fourth & Above Owner,1116929
+Tata Nexon,2013,161368,Electric,Automatic,Dealer,Third Owner,158149
+Maruti Swift,2006,268907,LPG,Automatic,Individual,First Owner,323972
+Ford Mustang,2014,130179,Electric,Manual,Individual,Fourth & Above Owner,1813504
+Maruti Swift,2022,179364,LPG,Manual,Individual,First Owner,713704
+Ford Mustang,2000,63135,CNG,Automatic,Trustmark Dealer,Second Owner,827730
+Honda City,2019,290649,CNG,Manual,Individual,Third Owner,1549819
+Mercedes C-Class,2011,288942,Petrol,Manual,Individual,First Owner,1001691
+Hyundai i20,2016,173604,LPG,Automatic,Dealer,First Owner,1683178
+Tata Nexon,2007,299166,Diesel,Manual,Trustmark Dealer,First Owner,289498
+Ford Mustang,2009,51834,LPG,Automatic,Dealer,Third Owner,350465
+Hyundai i20,2014,280721,Electric,Manual,Dealer,Third Owner,788563
+Mercedes C-Class,2006,88516,LPG,Manual,Dealer,First Owner,250816
+Audi Q7,2017,263181,Diesel,Automatic,Trustmark Dealer,Third Owner,293813
+Mercedes C-Class,2023,225717,Electric,Manual,Dealer,Third Owner,371926
+Mercedes C-Class,2006,96383,LPG,Manual,Individual,Fourth & Above Owner,1725798
+Tata Nexon,2006,103235,LPG,Automatic,Individual,Fourth & Above Owner,182731
+Audi Q7,2002,215802,Diesel,Automatic,Trustmark Dealer,Second Owner,828829
+Maruti Swift,2014,218752,Electric,Automatic,Trustmark Dealer,Third Owner,1783884
+BMW X5,2008,282931,Electric,Automatic,Trustmark Dealer,Second Owner,1880177
+Maruti Swift,2019,98602,CNG,Automatic,Trustmark Dealer,Third Owner,1972437
+Kia Seltos,2006,43894,CNG,Manual,Individual,First Owner,721793
+Ford Mustang,2022,163869,LPG,Manual,Individual,First Owner,863763
+Tata Nexon,2020,191443,CNG,Manual,Individual,Third Owner,800616
+Ford Mustang,2006,231283,Petrol,Manual,Dealer,Second Owner,607717
+Kia Seltos,2022,159065,Diesel,Manual,Individual,Second Owner,1863378
+Toyota Corolla,2016,71304,CNG,Automatic,Dealer,Second Owner,758219
+Honda City,2011,125881,Diesel,Automatic,Dealer,First Owner,736424
+Ford Mustang,2020,89862,CNG,Manual,Individual,Second Owner,1746628
+Ford Mustang,2001,79867,CNG,Manual,Trustmark Dealer,Third Owner,755641
+Toyota Corolla,2022,298177,CNG,Automatic,Dealer,Fourth & Above Owner,1803076
+Hyundai i20,2023,65529,Diesel,Manual,Dealer,Second Owner,1770811
+Honda City,2007,45717,Electric,Automatic,Trustmark Dealer,Second Owner,1536604
+Mercedes C-Class,2011,180269,Electric,Manual,Trustmark Dealer,First Owner,1879427
+Tata Nexon,2010,190171,Petrol,Automatic,Dealer,Second Owner,1585428
+Tata Nexon,2019,55581,Diesel,Manual,Trustmark Dealer,Third Owner,1743744
+Ford Mustang,2013,88853,CNG,Automatic,Dealer,First Owner,1923924
+Hyundai i20,2005,44545,Petrol,Automatic,Trustmark Dealer,Fourth & Above Owner,1433015
+Audi Q7,2004,12182,CNG,Manual,Dealer,Second Owner,1438779
+Mercedes C-Class,2012,297046,CNG,Manual,Individual,Third Owner,609471
+Kia Seltos,2011,134792,Petrol,Automatic,Dealer,First Owner,1451318
+Maruti Swift,2019,69246,Electric,Automatic,Individual,First Owner,740017
+Hyundai i20,2009,138354,LPG,Automatic,Dealer,Second Owner,1404331
+Toyota Corolla,2023,160664,Petrol,Manual,Dealer,Fourth & Above Owner,1512424
+Kia Seltos,2023,257327,LPG,Manual,Dealer,Second Owner,1465469
+Honda City,2023,199514,Electric,Automatic,Trustmark Dealer,Second Owner,958657
+Maruti Swift,2016,63978,Petrol,Automatic,Dealer,Fourth & Above Owner,837994
+Toyota Corolla,2002,35398,Diesel,Automatic,Trustmark Dealer,Third Owner,893231
+Hyundai i20,2004,257655,CNG,Automatic,Individual,Fourth & Above Owner,1680257
+BMW X5,2008,183519,Petrol,Automatic,Dealer,First Owner,696336
+Hyundai i20,2017,119984,Diesel,Automatic,Trustmark Dealer,Second Owner,272271
+Toyota Corolla,2012,136846,Electric,Manual,Trustmark Dealer,Third Owner,1511173
+Toyota Corolla,2011,108567,Electric,Manual,Dealer,First Owner,1766942
+Honda City,2005,21531,Electric,Automatic,Dealer,Fourth & Above Owner,1598642
+Tata Nexon,2009,115114,Electric,Manual,Dealer,Fourth & Above Owner,854877
+BMW X5,2014,192633,CNG,Manual,Individual,Third Owner,1100583
+Maruti Swift,2005,224073,CNG,Automatic,Individual,Third Owner,1416953
+Toyota Corolla,2001,135403,Petrol,Automatic,Individual,Third Owner,1803091
+BMW X5,2002,274345,Electric,Automatic,Individual,Third Owner,413435
+Audi Q7,2017,233176,Electric,Manual,Individual,First Owner,399433
+BMW X5,2006,149751,Electric,Manual,Dealer,Fourth & Above Owner,1419907
+Toyota Corolla,2008,281771,CNG,Manual,Individual,Third Owner,1361545
+BMW X5,2013,251613,Petrol,Automatic,Individual,Second Owner,210709
+Hyundai i20,2008,189845,LPG,Manual,Trustmark Dealer,First Owner,337477
+Ford Mustang,2020,73853,Petrol,Automatic,Dealer,Fourth & Above Owner,469314
+Honda City,2009,125587,Electric,Automatic,Trustmark Dealer,Third Owner,572093
+Tata Nexon,2021,70578,LPG,Automatic,Dealer,First Owner,1472825
+Tata Nexon,2004,104575,Diesel,Automatic,Trustmark Dealer,First Owner,377265
+Hyundai i20,2006,172349,Electric,Automatic,Dealer,First Owner,311291
+Honda City,2023,159725,Electric,Manual,Trustmark Dealer,First Owner,1926461
+BMW X5,2023,113577,Petrol,Manual,Individual,Fourth & Above Owner,1899945
+Hyundai i20,2005,229147,CNG,Manual,Trustmark Dealer,Fourth & Above Owner,388834
+Audi Q7,2002,224590,Electric,Manual,Individual,Fourth & Above Owner,1923119
+Audi Q7,2002,265980,LPG,Manual,Trustmark Dealer,Fourth & Above Owner,1402203
+Maruti Swift,2007,151182,Petrol,Automatic,Trustmark Dealer,Third Owner,1516988
+Ford Mustang,2005,266181,Diesel,Manual,Dealer,Second Owner,579589
+Ford Mustang,2006,191773,Electric,Manual,Dealer,Third Owner,865242
+Audi Q7,2012,105171,Petrol,Manual,Dealer,First Owner,450073
+Honda City,2020,183052,LPG,Automatic,Dealer,Second Owner,563730
+Honda City,2011,17919,Electric,Automatic,Trustmark Dealer,Fourth & Above Owner,872408
+Mercedes C-Class,2014,70083,Electric,Manual,Trustmark Dealer,Second Owner,222104
+Honda City,2000,90510,Electric,Manual,Individual,Fourth & Above Owner,336180
+Tata Nexon,2019,151207,CNG,Manual,Dealer,Second Owner,1519311
+Hyundai i20,2005,58399,LPG,Manual,Individual,Second Owner,387839
+Kia Seltos,2004,82505,Petrol,Automatic,Trustmark Dealer,Second Owner,1030473
+Hyundai i20,2017,252532,Petrol,Automatic,Individual,Third Owner,1260022
+Honda City,2019,168937,Diesel,Manual,Trustmark Dealer,First Owner,1265159
+Kia Seltos,2012,240699,Petrol,Automatic,Individual,Second Owner,455788
+Audi Q7,2006,48614,Diesel,Automatic,Dealer,Second Owner,1897060
+Tata Nexon,2015,13098,LPG,Manual,Dealer,Fourth & Above Owner,1643323
+Maruti Swift,2011,224801,CNG,Automatic,Dealer,Third Owner,268141
+Toyota Corolla,2015,38181,Electric,Automatic,Trustmark Dealer,Fourth & Above Owner,943035
+BMW X5,2015,186374,Diesel,Manual,Individual,Second Owner,264162
+Audi Q7,2020,79921,CNG,Automatic,Individual,Second Owner,652598
+Kia Seltos,2002,71802,Electric,Manual,Trustmark Dealer,Fourth & Above Owner,846626
+Tata Nexon,2014,41936,Electric,Automatic,Individual,Second Owner,1930028
+Honda City,2014,116993,Petrol,Automatic,Trustmark Dealer,Third Owner,741121
+Hyundai i20,2022,173292,CNG,Automatic,Individual,Third Owner,1184250
+Tata Nexon,2005,160959,LPG,Automatic,Dealer,Second Owner,1772104
+Hyundai i20,2017,44397,Electric,Manual,Dealer,Fourth & Above Owner,1730548
+Hyundai i20,2016,285029,CNG,Manual,Individual,Third Owner,1027243
+BMW X5,2001,235593,Electric,Manual,Dealer,First Owner,1185245
+BMW X5,2021,139058,CNG,Manual,Trustmark Dealer,Fourth & Above Owner,343154
+Toyota Corolla,2002,139240,LPG,Manual,Dealer,Second Owner,1276689
+Maruti Swift,2003,147020,Petrol,Manual,Individual,Second Owner,746179
+Ford Mustang,2007,152777,Electric,Automatic,Trustmark Dealer,Fourth & Above Owner,1618494
+Toyota Corolla,2021,243435,Petrol,Manual,Individual,Third Owner,340299
+Toyota Corolla,2019,121562,Diesel,Manual,Individual,Third Owner,1024322
+Tata Nexon,2011,60327,Petrol,Automatic,Trustmark Dealer,First Owner,1220319
+Kia Seltos,2002,45719,Petrol,Automatic,Trustmark Dealer,Fourth & Above Owner,1351504
+Mercedes C-Class,2006,105536,CNG,Automatic,Individual,Fourth & Above Owner,1635587
+Honda City,2022,149315,Petrol,Manual,Trustmark Dealer,Fourth & Above Owner,934510
+Ford Mustang,2018,176075,Petrol,Automatic,Individual,Second Owner,1141705
+Tata Nexon,2018,262781,Diesel,Manual,Trustmark Dealer,Second Owner,558508
+Ford Mustang,2013,5434,Petrol,Automatic,Trustmark Dealer,Fourth & Above Owner,302332
+Honda City,2001,172988,Electric,Manual,Individual,Second Owner,318786
+BMW X5,2013,221962,CNG,Automatic,Trustmark Dealer,Second Owner,1519748
+BMW X5,2014,13734,Petrol,Manual,Trustmark Dealer,Second Owner,867570
+Kia Seltos,2019,84652,CNG,Manual,Trustmark Dealer,First Owner,1605778
+Kia Seltos,2001,207495,CNG,Manual,Trustmark Dealer,Second Owner,1191576
+Ford Mustang,2002,45704,LPG,Manual,Individual,First Owner,1140094
+Ford Mustang,2017,143115,Diesel,Automatic,Individual,Second Owner,627075
+Toyota Corolla,2023,229354,Petrol,Automatic,Trustmark Dealer,Third Owner,515250
+BMW X5,2016,218530,LPG,Manual,Dealer,Fourth & Above Owner,1818919
+Hyundai i20,2009,202892,Diesel,Manual,Dealer,First Owner,1749098
+Toyota Corolla,2000,251260,CNG,Manual,Individual,Third Owner,1943417
+Audi Q7,2009,254976,Petrol,Automatic,Individual,Fourth & Above Owner,1589508
+Toyota Corolla,2013,127189,Electric,Automatic,Trustmark Dealer,Fourth & Above Owner,390680
+Mercedes C-Class,2008,98858,CNG,Automatic,Trustmark Dealer,First Owner,1283392
+BMW X5,2001,244549,CNG,Manual,Dealer,Third Owner,1194429
+Kia Seltos,2000,267697,CNG,Manual,Individual,Third Owner,491617
+BMW X5,2021,98622,Petrol,Automatic,Dealer,Second Owner,1123781
+Audi Q7,2013,139878,Electric,Manual,Dealer,Second Owner,1837005
+Toyota Corolla,2000,277348,Petrol,Manual,Trustmark Dealer,Second Owner,908145
+Mercedes C-Class,2009,219097,Electric,Automatic,Dealer,First Owner,1649920
+Ford Mustang,2002,267591,CNG,Manual,Trustmark Dealer,First Owner,239675
+Kia Seltos,2010,194419,CNG,Manual,Dealer,Fourth & Above Owner,1400147
+Toyota Corolla,2017,125981,Petrol,Manual,Trustmark Dealer,Third Owner,207751
+Maruti Swift,2000,137775,Petrol,Manual,Individual,Fourth & Above Owner,296788
+Tata Nexon,2008,107838,Electric,Automatic,Individual,Third Owner,565090
+Honda City,2018,211388,LPG,Manual,Trustmark Dealer,Third Owner,1633604
+BMW X5,2022,177023,Diesel,Manual,Dealer,Second Owner,836809
+Honda City,2011,81039,Diesel,Automatic,Dealer,Second Owner,828497
+Hyundai i20,2023,190674,Petrol,Manual,Trustmark Dealer,First Owner,1068747
+Mercedes C-Class,2016,120891,LPG,Automatic,Trustmark Dealer,Fourth & Above Owner,1139613
+Mercedes C-Class,2018,135820,LPG,Automatic,Trustmark Dealer,Third Owner,669634
+Maruti Swift,2001,247754,Diesel,Manual,Trustmark Dealer,Fourth & Above Owner,1251262
+Hyundai i20,2018,95148,LPG,Automatic,Individual,Second Owner,1468576
+Toyota Corolla,2001,235551,Electric,Manual,Dealer,Second Owner,1088132
+Kia Seltos,2006,266843,Diesel,Manual,Trustmark Dealer,Fourth & Above Owner,1034397
+Ford Mustang,2020,103169,Diesel,Automatic,Trustmark Dealer,First Owner,1828794
+Tata Nexon,2016,263702,Diesel,Automatic,Dealer,First Owner,818854
+Mercedes C-Class,2015,15154,Electric,Manual,Trustmark Dealer,Second Owner,1875330
+Honda City,2006,163830,Petrol,Automatic,Dealer,Second Owner,194191
+BMW X5,2020,266996,LPG,Manual,Dealer,Third Owner,166830
+Audi Q7,2020,108932,Electric,Automatic,Trustmark Dealer,First Owner,1509643
+Ford Mustang,2004,70293,LPG,Manual,Trustmark Dealer,Third Owner,1312310
+Mercedes C-Class,2021,152486,Petrol,Automatic,Dealer,First Owner,1233628
+Mercedes C-Class,2004,284132,Diesel,Manual,Individual,Fourth & Above Owner,593943
+Toyota Corolla,2000,269838,CNG,Automatic,Trustmark Dealer,Second Owner,1486609
+Ford Mustang,2003,19693,Diesel,Automatic,Trustmark Dealer,Fourth & Above Owner,1328874
+Honda City,2022,104722,Diesel,Manual,Dealer,Second Owner,1088468
+BMW X5,2005,167423,Petrol,Manual,Trustmark Dealer,Fourth & Above Owner,1167310
+Kia Seltos,2016,142647,Petrol,Automatic,Individual,Fourth & Above Owner,1398141
+Mercedes C-Class,2008,66048,Electric,Automatic,Dealer,Second Owner,222693
+Maruti Swift,2005,136277,LPG,Automatic,Individual,First Owner,1644186
+Maruti Swift,2011,92302,Diesel,Automatic,Individual,First Owner,1471238
+BMW X5,2012,105521,Petrol,Automatic,Trustmark Dealer,Fourth & Above Owner,1738137
+Kia Seltos,2023,282654,Electric,Manual,Trustmark Dealer,First Owner,1444615
+Ford Mustang,2006,115940,Petrol,Automatic,Trustmark Dealer,Third Owner,1168900
+Hyundai i20,2013,239613,Diesel,Manual,Trustmark Dealer,Fourth & Above Owner,514004
+Maruti Swift,2005,52599,Petrol,Manual,Individual,First Owner,1897505
+Mercedes C-Class,2020,154482,CNG,Manual,Dealer,First Owner,259211
+Hyundai i20,2007,224823,LPG,Automatic,Dealer,Third Owner,1805138
+Maruti Swift,2014,35741,CNG,Automatic,Trustmark Dealer,Second Owner,1353898
+Audi Q7,2014,228348,Electric,Automatic,Trustmark Dealer,First Owner,767120
+Ford Mustang,2010,161029,LPG,Manual,Dealer,First Owner,1410499
+BMW X5,2005,250471,Electric,Automatic,Trustmark Dealer,First Owner,1979486
+Kia Seltos,2009,22582,Diesel,Automatic,Dealer,First Owner,230579
+BMW X5,2014,90051,Diesel,Manual,Dealer,Second Owner,460071
+BMW X5,2012,240748,Diesel,Automatic,Individual,Fourth & Above Owner,1057879
+Honda City,2009,88402,CNG,Manual,Individual,Fourth & Above Owner,1118687
+Mercedes C-Class,2018,14314,Electric,Manual,Individual,Third Owner,1314227
+Toyota Corolla,2023,139483,Electric,Manual,Individual,Fourth & Above Owner,884069
+Toyota Corolla,2002,220945,LPG,Manual,Trustmark Dealer,First Owner,1416330
+Toyota Corolla,2022,213474,Electric,Manual,Trustmark Dealer,Fourth & Above Owner,695564
+Ford Mustang,2010,73708,Petrol,Automatic,Individual,Third Owner,1769891
+Kia Seltos,2018,205900,CNG,Manual,Individual,Second Owner,603560
+Toyota Corolla,2021,30700,CNG,Manual,Dealer,Fourth & Above Owner,534906
+Honda City,2012,129885,LPG,Manual,Dealer,Second Owner,1840839
+Ford Mustang,2000,133904,CNG,Automatic,Dealer,Second Owner,1011647
+Toyota Corolla,2012,158317,Petrol,Manual,Individual,Third Owner,1865238
+Honda City,2008,48389,CNG,Manual,Trustmark Dealer,Third Owner,659075
+Hyundai i20,2001,282893,Diesel,Automatic,Dealer,First Owner,139128
+BMW X5,2022,124277,LPG,Automatic,Dealer,Second Owner,1876750
+Maruti Swift,2013,213606,Diesel,Manual,Dealer,Second Owner,1928239
+BMW X5,2011,26497,CNG,Automatic,Individual,Third Owner,1208397
+Toyota Corolla,2021,280367,LPG,Automatic,Dealer,Third Owner,1374677
+Hyundai i20,2020,251154,LPG,Automatic,Individual,Fourth & Above Owner,748606
+Ford Mustang,2012,224100,Diesel,Automatic,Dealer,First Owner,1035598
+Toyota Corolla,2007,24543,Petrol,Manual,Individual,First Owner,1517156
+Honda City,2011,193999,CNG,Automatic,Dealer,Second Owner,1703478
+Mercedes C-Class,2010,12858,CNG,Manual,Trustmark Dealer,Third Owner,728883
+Kia Seltos,2015,59424,LPG,Manual,Individual,First Owner,1752377
+Hyundai i20,2016,284449,Electric,Manual,Trustmark Dealer,First Owner,1265566
+Maruti Swift,2022,155082,Petrol,Automatic,Dealer,Fourth & Above Owner,1358410
+Hyundai i20,2014,187798,Diesel,Automatic,Dealer,First Owner,329175
+Honda City,2006,165175,Diesel,Manual,Trustmark Dealer,Second Owner,1203164
+Tata Nexon,2020,189400,LPG,Manual,Trustmark Dealer,Third Owner,704009
+Mercedes C-Class,2020,100082,Petrol,Manual,Trustmark Dealer,Second Owner,101920
+Kia Seltos,2020,142070,CNG,Manual,Trustmark Dealer,Fourth & Above Owner,1842463
+Hyundai i20,2019,49696,CNG,Automatic,Individual,Third Owner,504412
+Kia Seltos,2022,147217,LPG,Manual,Trustmark Dealer,Fourth & Above Owner,539499
+Hyundai i20,2018,152993,Electric,Manual,Individual,Fourth & Above Owner,1818848
+Honda City,2004,125738,Diesel,Automatic,Individual,First Owner,1760499
+Honda City,2017,290729,Diesel,Manual,Individual,Third Owner,378165
+Mercedes C-Class,2010,193908,Diesel,Automatic,Dealer,Fourth & Above Owner,1816101
+Maruti Swift,2002,10968,CNG,Manual,Dealer,Third Owner,238687
+Audi Q7,2005,279243,Petrol,Automatic,Trustmark Dealer,Fourth & Above Owner,1345369
+BMW X5,2020,8766,Electric,Automatic,Individual,Fourth & Above Owner,1134210
+Hyundai i20,2020,51697,CNG,Automatic,Dealer,First Owner,1632302
+Hyundai i20,2015,256857,Petrol,Manual,Individual,Fourth & Above Owner,920845
+Kia Seltos,2015,36662,LPG,Manual,Trustmark Dealer,First Owner,1970096
+Hyundai i20,2000,151634,Electric,Manual,Dealer,Fourth & Above Owner,1094896
+Ford Mustang,2009,175035,Electric,Manual,Trustmark Dealer,Third Owner,1775702
+BMW X5,2022,92721,LPG,Manual,Dealer,Second Owner,1185039
+Kia Seltos,2015,93555,CNG,Manual,Individual,Fourth & Above Owner,1058785
+Kia Seltos,2008,176488,Petrol,Automatic,Trustmark Dealer,First Owner,846963
+Honda City,2015,136907,LPG,Automatic,Trustmark Dealer,Fourth & Above Owner,1248959
+Toyota Corolla,2019,126826,Electric,Manual,Individual,Fourth & Above Owner,1713623
+Honda City,2013,107838,LPG,Automatic,Individual,Fourth & Above Owner,700472
+Honda City,2022,144661,Electric,Manual,Individual,First Owner,1403938
+Tata Nexon,2009,218195,Electric,Manual,Individual,Third Owner,1865118
+Toyota Corolla,2003,204396,LPG,Manual,Dealer,Fourth & Above Owner,1004092
+Toyota Corolla,2002,114336,Diesel,Manual,Trustmark Dealer,Fourth & Above Owner,1190085
+Honda City,2012,280810,Electric,Automatic,Dealer,Fourth & Above Owner,1703915
+Ford Mustang,2023,233656,CNG,Automatic,Dealer,Second Owner,1436935
+Toyota Corolla,2021,149249,Petrol,Manual,Individual,Second Owner,1068485
+Hyundai i20,2011,99112,Electric,Manual,Individual,First Owner,1421337
+Honda City,2000,6910,Petrol,Automatic,Trustmark Dealer,First Owner,1453846
+Hyundai i20,2015,123339,Electric,Manual,Individual,First Owner,832786
+Ford Mustang,2007,188253,CNG,Automatic,Individual,Third Owner,1021466
+Mercedes C-Class,2012,270455,Diesel,Automatic,Individual,Fourth & Above Owner,425252
+Kia Seltos,2019,116683,CNG,Manual,Dealer,Third Owner,1614628
+Audi Q7,2017,121664,Petrol,Automatic,Individual,Fourth & Above Owner,819213
+BMW X5,2003,30797,Diesel,Manual,Trustmark Dealer,Second Owner,1647963
+BMW X5,2015,162841,Diesel,Automatic,Dealer,First Owner,1482790
+BMW X5,2004,266595,CNG,Manual,Dealer,Third Owner,1861961
+Tata Nexon,2014,94581,LPG,Automatic,Individual,First Owner,681594
+Maruti Swift,2018,95971,LPG,Manual,Individual,Fourth & Above Owner,456606
+Tata Nexon,2001,164924,CNG,Automatic,Individual,Second Owner,358222
+Kia Seltos,2022,256139,Diesel,Automatic,Trustmark Dealer,Second Owner,1301450
+Audi Q7,2010,286603,Petrol,Automatic,Dealer,Third Owner,1626335
+Toyota Corolla,2009,113173,Electric,Manual,Trustmark Dealer,Second Owner,1203572
+BMW X5,2018,133724,Petrol,Automatic,Dealer,First Owner,647137
+Maruti Swift,2008,197049,CNG,Manual,Individual,First Owner,860204
+Toyota Corolla,2001,167897,Diesel,Manual,Dealer,Third Owner,616488
+Tata Nexon,2008,216334,CNG,Automatic,Trustmark Dealer,Second Owner,550688
+Honda City,2023,278609,Petrol,Manual,Dealer,First Owner,1034597
+Honda City,2016,20866,Petrol,Automatic,Trustmark Dealer,Third Owner,754158
+Honda City,2018,95596,CNG,Automatic,Trustmark Dealer,First Owner,703218
+Ford Mustang,2015,229412,Petrol,Automatic,Dealer,Fourth & Above Owner,844496
+Hyundai i20,2001,167850,Petrol,Automatic,Dealer,Third Owner,784791
+Ford Mustang,2022,89230,LPG,Manual,Dealer,Third Owner,358176
+Mercedes C-Class,2014,131054,LPG,Automatic,Trustmark Dealer,Second Owner,1766984
+Ford Mustang,2010,182592,Petrol,Manual,Trustmark Dealer,Third Owner,1764958
+Hyundai i20,2019,10191,CNG,Automatic,Trustmark Dealer,Second Owner,105434
+Kia Seltos,2004,40069,Diesel,Automatic,Trustmark Dealer,Second Owner,1477887
+Mercedes C-Class,2018,242560,Diesel,Automatic,Individual,Fourth & Above Owner,1490498
+Tata Nexon,2000,80765,CNG,Automatic,Dealer,Fourth & Above Owner,1993657
+Kia Seltos,2000,246641,Petrol,Automatic,Individual,Third Owner,1645918
+Hyundai i20,2018,281223,CNG,Automatic,Individual,Second Owner,157753
+Maruti Swift,2015,251937,LPG,Automatic,Trustmark Dealer,Fourth & Above Owner,556626
+Maruti Swift,2004,92922,LPG,Manual,Trustmark Dealer,Second Owner,900731
+BMW X5,2014,289683,CNG,Automatic,Dealer,Fourth & Above Owner,1867793
+Audi Q7,2009,67371,Diesel,Automatic,Individual,First Owner,490515
+Maruti Swift,2001,58093,Petrol,Automatic,Individual,Third Owner,611247
+Hyundai i20,2019,229317,Petrol,Automatic,Dealer,Fourth & Above Owner,1217717
+Maruti Swift,2005,126443,CNG,Manual,Dealer,Third Owner,1621550
+Hyundai i20,2013,185336,CNG,Manual,Dealer,Third Owner,739681
+Honda City,2000,60944,Petrol,Automatic,Individual,Fourth & Above Owner,268693
+Kia Seltos,2013,260165,Petrol,Manual,Dealer,Fourth & Above Owner,1482588
+Ford Mustang,2010,84784,Petrol,Manual,Dealer,Third Owner,810977
+Audi Q7,2008,92438,Diesel,Manual,Trustmark Dealer,Third Owner,1947890
+Hyundai i20,2004,77016,LPG,Manual,Individual,Fourth & Above Owner,949806
+Tata Nexon,2016,261171,LPG,Automatic,Individual,Second Owner,259663
+Audi Q7,2016,153402,LPG,Manual,Dealer,Third Owner,131721
+Ford Mustang,2017,249986,Petrol,Manual,Dealer,Third Owner,595467
+Mercedes C-Class,2011,163704,Petrol,Manual,Trustmark Dealer,First Owner,1691015
+Honda City,2001,229476,Petrol,Manual,Individual,Third Owner,740744
+Toyota Corolla,2010,165884,Petrol,Manual,Individual,Third Owner,1957362
+Kia Seltos,2009,134315,Electric,Automatic,Dealer,Second Owner,1612427
+Maruti Swift,2011,68533,Diesel,Manual,Trustmark Dealer,Fourth & Above Owner,479646
+Audi Q7,2012,84337,Electric,Automatic,Individual,First Owner,766307
+Maruti Swift,2006,170221,CNG,Manual,Dealer,Second Owner,441888
+Audi Q7,2002,117424,LPG,Automatic,Individual,First Owner,1144248
+Mercedes C-Class,2006,81816,CNG,Manual,Dealer,First Owner,582790
+Kia Seltos,2002,67508,CNG,Automatic,Individual,Second Owner,366437
+BMW X5,2003,53706,Diesel,Manual,Dealer,First Owner,1835558
+BMW X5,2011,298749,Electric,Automatic,Dealer,First Owner,1404206
+Hyundai i20,2011,89534,LPG,Automatic,Trustmark Dealer,Fourth & Above Owner,1190542
+Kia Seltos,2006,20858,Electric,Manual,Individual,Second Owner,677684
+Ford Mustang,2012,228356,Diesel,Manual,Trustmark Dealer,First Owner,512570
+Tata Nexon,2008,120844,CNG,Automatic,Trustmark Dealer,First Owner,1848401
+Maruti Swift,2019,275105,Petrol,Manual,Dealer,Third Owner,253860
+Kia Seltos,2004,29457,Diesel,Automatic,Trustmark Dealer,Second Owner,1924892
+Toyota Corolla,2008,186883,Electric,Manual,Individual,Fourth & Above Owner,1336396
+Honda City,2022,170735,LPG,Manual,Dealer,Third Owner,825590
+Honda City,2019,233332,Petrol,Automatic,Trustmark Dealer,Fourth & Above Owner,555830
+Toyota Corolla,2014,47450,Diesel,Automatic,Dealer,Third Owner,420396
+Audi Q7,2020,228628,Petrol,Manual,Dealer,Fourth & Above Owner,1369175
+Ford Mustang,2020,191719,LPG,Automatic,Individual,Fourth & Above Owner,1003272
+Hyundai i20,2005,229201,Petrol,Manual,Individual,Third Owner,834281
+Tata Nexon,2020,223058,LPG,Automatic,Trustmark Dealer,First Owner,732974
+Ford Mustang,2023,33055,Diesel,Manual,Individual,Second Owner,180158
+Tata Nexon,2021,47148,Petrol,Manual,Dealer,Second Owner,948686
+Kia Seltos,2015,114485,Petrol,Manual,Trustmark Dealer,First Owner,359968
+Tata Nexon,2005,59748,Petrol,Automatic,Individual,Second Owner,473276
+BMW X5,2021,109612,Electric,Automatic,Dealer,Second Owner,1654063
+BMW X5,2014,212321,LPG,Automatic,Dealer,First Owner,1449151
+Hyundai i20,2006,248127,CNG,Automatic,Individual,Second Owner,695161
+Mercedes C-Class,2006,150642,Petrol,Automatic,Individual,Second Owner,1127304
+Maruti Swift,2018,203048,Electric,Manual,Dealer,Second Owner,778839
+Mercedes C-Class,2017,173240,Diesel,Automatic,Dealer,Second Owner,1434117
+Toyota Corolla,2011,261363,Electric,Automatic,Dealer,Fourth & Above Owner,265921
+BMW X5,2016,287123,Petrol,Automatic,Trustmark Dealer,Third Owner,443692
+Ford Mustang,2021,133070,Electric,Manual,Dealer,Second Owner,1792921
+Mercedes C-Class,2008,208713,LPG,Automatic,Dealer,First Owner,1725837
+BMW X5,2019,8998,Electric,Automatic,Individual,Fourth & Above Owner,393603
+Tata Nexon,2000,23650,Petrol,Automatic,Dealer,Fourth & Above Owner,1423048
+Maruti Swift,2014,110675,CNG,Manual,Dealer,Third Owner,1440650
+Maruti Swift,2022,97681,CNG,Manual,Trustmark Dealer,Fourth & Above Owner,1301841
+BMW X5,2003,274014,Diesel,Automatic,Dealer,First Owner,797829
+Kia Seltos,2001,282570,LPG,Automatic,Individual,Fourth & Above Owner,1744324
+Honda City,2011,287514,Petrol,Manual,Trustmark Dealer,Fourth & Above Owner,342478
+Kia Seltos,2002,217983,Diesel,Automatic,Trustmark Dealer,First Owner,1096330
+Mercedes C-Class,2008,215194,CNG,Automatic,Individual,Third Owner,1960336
+Audi Q7,2016,200215,CNG,Manual,Dealer,Fourth & Above Owner,373171
+Tata Nexon,2006,209169,Diesel,Automatic,Dealer,Second Owner,1896351
+BMW X5,2010,35924,Petrol,Manual,Trustmark Dealer,Fourth & Above Owner,1451254
+Mercedes C-Class,2011,132503,Petrol,Automatic,Trustmark Dealer,Second Owner,1399776
+Tata Nexon,2018,149293,LPG,Manual,Individual,Fourth & Above Owner,287914
+Kia Seltos,2007,198627,Diesel,Manual,Dealer,First Owner,954925
+Hyundai i20,2004,65358,Electric,Automatic,Individual,Second Owner,443384
+Audi Q7,2023,111796,Electric,Manual,Individual,Third Owner,1369874
+Ford Mustang,2005,40189,CNG,Manual,Individual,Third Owner,1744707
+Tata Nexon,2005,170031,Petrol,Automatic,Individual,Second Owner,1031046
+Maruti Swift,2012,220824,Electric,Manual,Trustmark Dealer,First Owner,896784
+Mercedes C-Class,2014,212957,LPG,Automatic,Individual,First Owner,1261061
+Ford Mustang,2022,209847,CNG,Manual,Trustmark Dealer,Second Owner,412931
+Kia Seltos,2018,228513,CNG,Manual,Trustmark Dealer,Fourth & Above Owner,1720689
+Mercedes C-Class,2002,163343,Petrol,Automatic,Dealer,Fourth & Above Owner,1248472
+BMW X5,2002,86029,LPG,Manual,Dealer,Second Owner,1274626
+Audi Q7,2012,67351,Diesel,Automatic,Dealer,Second Owner,1972436
+Ford Mustang,2021,101463,Electric,Manual,Individual,First Owner,136156
+Maruti Swift,2013,147995,Petrol,Manual,Individual,Third Owner,1520143
+Hyundai i20,2023,202041,LPG,Manual,Trustmark Dealer,Fourth & Above Owner,800799
+Tata Nexon,2013,137848,LPG,Automatic,Individual,Third Owner,512315
+Audi Q7,2019,95845,Electric,Manual,Individual,Third Owner,1880205
+Toyota Corolla,2013,281820,Petrol,Automatic,Dealer,Fourth & Above Owner,463863
+Audi Q7,2017,230413,LPG,Manual,Dealer,Fourth & Above Owner,1767345
+Mercedes C-Class,2018,233240,Diesel,Automatic,Individual,First Owner,1958262
+Hyundai i20,2007,172583,Electric,Automatic,Trustmark Dealer,Third Owner,367261
+BMW X5,2017,276834,Petrol,Manual,Individual,Fourth & Above Owner,686746
+Honda City,2007,62925,Diesel,Automatic,Dealer,Second Owner,1540731
+BMW X5,2019,54879,Electric,Manual,Individual,Third Owner,314141
+Hyundai i20,2002,157616,Diesel,Automatic,Individual,Fourth & Above Owner,1783957
+BMW X5,2012,246540,LPG,Manual,Trustmark Dealer,Third Owner,708246
+Honda City,2023,261684,CNG,Automatic,Individual,Third Owner,250107
+Kia Seltos,2003,213905,Petrol,Manual,Dealer,Third Owner,809725
+Audi Q7,2017,259436,Petrol,Automatic,Trustmark Dealer,Second Owner,1033363
+Ford Mustang,2009,22434,CNG,Automatic,Dealer,Fourth & Above Owner,555863
+Toyota Corolla,2002,196515,LPG,Manual,Trustmark Dealer,Third Owner,1091665
+Maruti Swift,2020,115893,Petrol,Automatic,Individual,Fourth & Above Owner,1597235
+BMW X5,2002,57356,CNG,Manual,Individual,Third Owner,1113904
+Mercedes C-Class,2002,291580,LPG,Manual,Trustmark Dealer,Second Owner,184090
+Kia Seltos,2010,239463,Electric,Manual,Dealer,Fourth & Above Owner,805951
+Hyundai i20,2021,251255,Electric,Automatic,Dealer,Fourth & Above Owner,1343107
+Mercedes C-Class,2012,56567,Electric,Automatic,Trustmark Dealer,Fourth & Above Owner,313330
+Hyundai i20,2006,59242,CNG,Automatic,Trustmark Dealer,First Owner,1228099
+Hyundai i20,2020,97324,Diesel,Manual,Individual,Third Owner,1617752
+Toyota Corolla,2001,153420,LPG,Manual,Dealer,Second Owner,1561186
+Audi Q7,2013,175122,Petrol,Automatic,Individual,Third Owner,629989
+Maruti Swift,2014,217385,LPG,Manual,Dealer,Third Owner,419711
+Ford Mustang,2020,252121,CNG,Automatic,Dealer,Second Owner,1420665
+Toyota Corolla,2011,104192,Electric,Automatic,Trustmark Dealer,Second Owner,1978828
+Maruti Swift,2011,259633,CNG,Manual,Individual,Third Owner,1676265
+Hyundai i20,2006,6522,CNG,Manual,Dealer,First Owner,1512228
+Honda City,2004,89313,Electric,Manual,Dealer,Fourth & Above Owner,679237
+Ford Mustang,2004,124698,Electric,Automatic,Dealer,Third Owner,353060
+Kia Seltos,2010,31936,Petrol,Manual,Trustmark Dealer,Fourth & Above Owner,1304681
+Honda City,2013,297950,CNG,Automatic,Trustmark Dealer,First Owner,659711
+Ford Mustang,2008,263806,Petrol,Manual,Individual,Third Owner,1427686
+Ford Mustang,2014,21448,Petrol,Manual,Individual,First Owner,298378
+Maruti Swift,2004,125709,Petrol,Manual,Dealer,Fourth & Above Owner,435004
+Kia Seltos,2022,293947,Diesel,Manual,Dealer,Second Owner,1030917
+Toyota Corolla,2006,174500,Electric,Manual,Individual,Third Owner,1103138
+Toyota Corolla,2004,162292,Petrol,Automatic,Trustmark Dealer,First Owner,875213
+Toyota Corolla,2015,61771,LPG,Manual,Trustmark Dealer,Third Owner,1582683
+Honda City,2023,37057,Electric,Manual,Trustmark Dealer,Second Owner,512869
+Maruti Swift,2011,268381,Electric,Automatic,Dealer,First Owner,1698479
+Honda City,2002,82313,Petrol,Manual,Dealer,Second Owner,1327776
+Ford Mustang,2023,253847,Electric,Manual,Trustmark Dealer,First Owner,1599087
+Audi Q7,2013,122743,LPG,Automatic,Trustmark Dealer,Fourth & Above Owner,1202768
+Tata Nexon,2016,250642,Diesel,Manual,Dealer,Third Owner,1062257
+Kia Seltos,2001,150622,Diesel,Manual,Trustmark Dealer,Fourth & Above Owner,1682247
+Tata Nexon,2015,213782,LPG,Automatic,Dealer,Second Owner,924115
+Mercedes C-Class,2019,57978,Electric,Manual,Individual,Second Owner,405550
+Mercedes C-Class,2020,284332,Petrol,Manual,Trustmark Dealer,Second Owner,974879
+Toyota Corolla,2007,71944,Electric,Automatic,Trustmark Dealer,Fourth & Above Owner,1722831
+Mercedes C-Class,2005,92056,Diesel,Automatic,Dealer,First Owner,1861946
+Audi Q7,2000,51078,LPG,Manual,Individual,Fourth & Above Owner,1244630
+Tata Nexon,2018,42234,Petrol,Automatic,Trustmark Dealer,First Owner,198949
+Audi Q7,2002,261147,Diesel,Manual,Individual,Third Owner,1477821
+Audi Q7,2002,269095,Electric,Automatic,Dealer,Second Owner,1800503
+Toyota Corolla,2003,237774,Electric,Automatic,Dealer,Fourth & Above Owner,1778972
+Hyundai i20,2020,57526,CNG,Manual,Trustmark Dealer,First Owner,1764653
+Hyundai i20,2017,74562,CNG,Manual,Individual,Second Owner,526251
+Toyota Corolla,2010,106741,CNG,Manual,Individual,Second Owner,157331
+Mercedes C-Class,2007,229220,CNG,Automatic,Dealer,First Owner,1082046
+Ford Mustang,2012,184298,Electric,Automatic,Individual,Second Owner,211726
+Tata Nexon,2002,7600,LPG,Manual,Dealer,First Owner,359005
+Toyota Corolla,2001,238243,CNG,Automatic,Individual,Third Owner,1480073
+Maruti Swift,2011,97897,Petrol,Manual,Individual,First Owner,1882949
+Tata Nexon,2003,80201,Petrol,Automatic,Dealer,First Owner,1665727
+BMW X5,2007,127227,Diesel,Manual,Individual,First Owner,1536477
+Ford Mustang,2012,155897,LPG,Manual,Dealer,Fourth & Above Owner,1423671
+Toyota Corolla,2016,31384,Diesel,Manual,Dealer,Fourth & Above Owner,1169581
+Kia Seltos,2005,252921,Petrol,Automatic,Individual,First Owner,517430
+Audi Q7,2017,96675,Petrol,Automatic,Individual,First Owner,782082
+Honda City,2022,64374,Petrol,Manual,Individual,First Owner,481152
+Hyundai i20,2015,239354,CNG,Automatic,Dealer,Second Owner,1613884
+BMW X5,2020,180838,Diesel,Automatic,Trustmark Dealer,Fourth & Above Owner,1797249
+Maruti Swift,2015,97740,CNG,Automatic,Trustmark Dealer,First Owner,254765
+Mercedes C-Class,2004,50531,CNG,Manual,Trustmark Dealer,Third Owner,1116755
+Honda City,2017,136158,LPG,Automatic,Trustmark Dealer,Second Owner,1732245
+Hyundai i20,2015,153430,CNG,Manual,Dealer,Fourth & Above Owner,1649168
+Ford Mustang,2019,228103,Petrol,Manual,Individual,Third Owner,889737
+Mercedes C-Class,2014,197172,Diesel,Manual,Trustmark Dealer,Fourth & Above Owner,973840
+Honda City,2014,262757,CNG,Manual,Dealer,Second Owner,682497
+Ford Mustang,2012,280540,Electric,Automatic,Individual,Third Owner,437459
+BMW X5,2020,99573,Diesel,Automatic,Individual,Fourth & Above Owner,812719
+Hyundai i20,2017,245241,Diesel,Automatic,Dealer,Fourth & Above Owner,1000746
+Toyota Corolla,2015,65111,LPG,Automatic,Individual,Third Owner,512501
+Kia Seltos,2004,276396,Petrol,Manual,Trustmark Dealer,Third Owner,1466431
+Mercedes C-Class,2011,204124,LPG,Automatic,Individual,Third Owner,1483922
+Hyundai i20,2018,155536,Petrol,Manual,Dealer,Fourth & Above Owner,817851
+Mercedes C-Class,2011,16522,LPG,Automatic,Dealer,Third Owner,327702
+Mercedes C-Class,2004,126048,Electric,Manual,Dealer,Second Owner,876534
+Hyundai i20,2010,273452,Electric,Manual,Dealer,Second Owner,1049161
+Kia Seltos,2002,244539,Diesel,Manual,Dealer,Second Owner,1887814
+Mercedes C-Class,2004,114195,Diesel,Manual,Trustmark Dealer,Third Owner,1047974
+Tata Nexon,2018,279060,CNG,Automatic,Dealer,Fourth & Above Owner,1359500
+Kia Seltos,2023,179075,Electric,Automatic,Trustmark Dealer,Fourth & Above Owner,850466
+Honda City,2013,243870,LPG,Manual,Trustmark Dealer,Second Owner,769116
+Ford Mustang,2023,73164,Petrol,Automatic,Individual,Fourth & Above Owner,1286360
+Audi Q7,2014,238703,Petrol,Automatic,Trustmark Dealer,Third Owner,184123
+Kia Seltos,2020,59950,Electric,Manual,Individual,Third Owner,1319633
+Tata Nexon,2012,265707,CNG,Automatic,Trustmark Dealer,Fourth & Above Owner,1229202
+Maruti Swift,2017,24314,Diesel,Manual,Individual,Third Owner,858417
+Mercedes C-Class,2009,78963,CNG,Manual,Individual,Third Owner,289126
+Honda City,2009,83610,Electric,Automatic,Individual,First Owner,428430
+Toyota Corolla,2001,125633,Diesel,Automatic,Dealer,Second Owner,476906
+Mercedes C-Class,2018,208695,CNG,Manual,Dealer,Second Owner,1622465
+Tata Nexon,2018,37228,Electric,Automatic,Individual,Fourth & Above Owner,981233
+Mercedes C-Class,2008,189205,Diesel,Manual,Individual,Third Owner,1183674
+Hyundai i20,2005,60794,Petrol,Automatic,Individual,First Owner,1867003
+Toyota Corolla,2008,162589,Petrol,Manual,Individual,First Owner,1515983
+Toyota Corolla,2014,112115,Diesel,Automatic,Dealer,Fourth & Above Owner,366995
+Hyundai i20,2004,299863,Petrol,Automatic,Individual,Fourth & Above Owner,1774300
+Tata Nexon,2008,230532,CNG,Automatic,Individual,Fourth & Above Owner,1608107
+Mercedes C-Class,2012,273810,Petrol,Manual,Dealer,Third Owner,1533257
+BMW X5,2002,59795,Petrol,Manual,Dealer,Fourth & Above Owner,1768010
+Ford Mustang,2008,122160,Diesel,Automatic,Dealer,Second Owner,335430
+BMW X5,2015,198735,CNG,Automatic,Trustmark Dealer,Second Owner,802730
+Tata Nexon,2022,276296,Petrol,Automatic,Individual,First Owner,812349
+Kia Seltos,2021,159331,CNG,Automatic,Dealer,First Owner,1380934
+Tata Nexon,2012,242280,LPG,Manual,Dealer,Second Owner,415216
+Honda City,2017,11970,Diesel,Manual,Trustmark Dealer,First Owner,1809827
+Kia Seltos,2010,207016,Petrol,Automatic,Dealer,Second Owner,1598664
+Maruti Swift,2019,224200,Diesel,Manual,Trustmark Dealer,Third Owner,1786344
+Hyundai i20,2023,234446,Electric,Automatic,Trustmark Dealer,Second Owner,1577616
+Audi Q7,2022,143690,CNG,Automatic,Dealer,Second Owner,1301268
+Audi Q7,2015,85581,LPG,Manual,Dealer,Second Owner,1943083
+Kia Seltos,2000,141627,Diesel,Manual,Individual,Third Owner,1680330
+Honda City,2015,80461,Electric,Automatic,Trustmark Dealer,Fourth & Above Owner,675755
+Hyundai i20,2001,83106,LPG,Automatic,Trustmark Dealer,Third Owner,1343641
+Tata Nexon,2012,200142,CNG,Automatic,Individual,Fourth & Above Owner,473478
+Honda City,2003,160808,Electric,Manual,Trustmark Dealer,Fourth & Above Owner,375176
+Maruti Swift,2020,148149,Petrol,Manual,Trustmark Dealer,Third Owner,1276472
+Kia Seltos,2005,191330,Petrol,Manual,Individual,Fourth & Above Owner,1252776
+Toyota Corolla,2009,290331,CNG,Manual,Trustmark Dealer,Third Owner,1479400
+Ford Mustang,2018,267948,Petrol,Manual,Trustmark Dealer,Second Owner,1293196
+Audi Q7,2000,272672,Petrol,Manual,Trustmark Dealer,Second Owner,383391
+Hyundai i20,2015,129207,Electric,Automatic,Individual,Third Owner,286290
+Mercedes C-Class,2010,288296,Diesel,Manual,Trustmark Dealer,Third Owner,1987960
+BMW X5,2000,74929,Petrol,Automatic,Dealer,Second Owner,721139
+Ford Mustang,2012,76417,Diesel,Manual,Trustmark Dealer,Second Owner,1457273
+Maruti Swift,2005,210006,CNG,Automatic,Dealer,Second Owner,1582529
+Toyota Corolla,2015,28059,LPG,Manual,Trustmark Dealer,Third Owner,1721648
+Ford Mustang,2003,277991,Diesel,Manual,Individual,First Owner,363123
+Maruti Swift,2003,232063,CNG,Automatic,Individual,Fourth & Above Owner,1268592
+Mercedes C-Class,2009,40647,Diesel,Automatic,Trustmark Dealer,First Owner,1780854
+Audi Q7,2004,43185,Electric,Manual,Dealer,Fourth & Above Owner,1153947
+Honda City,2012,243059,Diesel,Manual,Individual,Third Owner,1358505
+Maruti Swift,2017,91949,CNG,Manual,Individual,First Owner,1471223
+Toyota Corolla,2014,174469,Petrol,Automatic,Individual,Second Owner,1308354
+Mercedes C-Class,2016,150792,Diesel,Manual,Individual,Fourth & Above Owner,1848914
+Tata Nexon,2018,240147,LPG,Automatic,Trustmark Dealer,Second Owner,1041962
+Kia Seltos,2011,192946,CNG,Automatic,Trustmark Dealer,Third Owner,1317838
+Maruti Swift,2023,65343,CNG,Automatic,Trustmark Dealer,Third Owner,1047096
+Ford Mustang,2009,179549,Petrol,Manual,Individual,Fourth & Above Owner,757348
+Tata Nexon,2007,202836,LPG,Manual,Individual,Second Owner,1872594
+Kia Seltos,2007,289860,Petrol,Manual,Dealer,Fourth & Above Owner,1036169
+Maruti Swift,2006,266042,Petrol,Automatic,Individual,Second Owner,1909510
+Hyundai i20,2013,169716,Electric,Manual,Individual,Second Owner,1191661
+Kia Seltos,2006,194373,CNG,Manual,Trustmark Dealer,Third Owner,1379091
+Ford Mustang,2003,75778,Electric,Automatic,Dealer,Second Owner,225802
+BMW X5,2020,80947,Electric,Manual,Dealer,First Owner,609166
+Hyundai i20,2001,197890,LPG,Manual,Trustmark Dealer,First Owner,882393
+Tata Nexon,2016,200109,Diesel,Manual,Dealer,First Owner,1004581
+Maruti Swift,2003,103760,Diesel,Manual,Trustmark Dealer,Fourth & Above Owner,1816390
+Mercedes C-Class,2001,60169,Petrol,Automatic,Dealer,Second Owner,237205
+Toyota Corolla,2023,100013,Electric,Automatic,Individual,Fourth & Above Owner,287305
+Audi Q7,2016,298548,CNG,Manual,Trustmark Dealer,Fourth & Above Owner,695986
+Kia Seltos,2007,106699,LPG,Automatic,Individual,Third Owner,942411
+Toyota Corolla,2008,223622,Diesel,Automatic,Individual,First Owner,1509060
+BMW X5,2001,250683,Electric,Automatic,Dealer,Second Owner,1730240
+Ford Mustang,2017,82606,Diesel,Manual,Individual,First Owner,385449
+Hyundai i20,2011,146237,Electric,Manual,Trustmark Dealer,First Owner,151032
+Audi Q7,2023,35904,Electric,Automatic,Trustmark Dealer,Second Owner,331862
+Hyundai i20,2005,253185,Diesel,Automatic,Trustmark Dealer,Third Owner,132924
+Hyundai i20,2009,247156,Petrol,Manual,Individual,Third Owner,1550991
+Honda City,2015,99697,Petrol,Automatic,Dealer,Fourth & Above Owner,1613287
+Honda City,2010,169217,LPG,Automatic,Trustmark Dealer,Fourth & Above Owner,1682745
+Audi Q7,2012,34545,CNG,Manual,Dealer,Second Owner,290086
+BMW X5,2006,255679,Petrol,Automatic,Individual,Second Owner,613705
+Tata Nexon,2013,44680,LPG,Manual,Individual,Second Owner,1216496
+Tata Nexon,2010,94441,Petrol,Automatic,Trustmark Dealer,First Owner,1681196
+Hyundai i20,2014,122011,Petrol,Automatic,Trustmark Dealer,First Owner,1233356
+Toyota Corolla,2002,165997,Petrol,Automatic,Trustmark Dealer,Third Owner,824649
+Mercedes C-Class,2020,91927,Diesel,Automatic,Dealer,First Owner,129860
+Maruti Swift,2022,142444,Electric,Manual,Trustmark Dealer,Second Owner,126978
+Maruti Swift,2003,96441,Petrol,Manual,Trustmark Dealer,Third Owner,1723925
+Kia Seltos,2012,42523,CNG,Manual,Dealer,Fourth & Above Owner,1818229
+BMW X5,2004,245044,LPG,Manual,Trustmark Dealer,Fourth & Above Owner,1060400
+Honda City,2023,247687,Diesel,Automatic,Trustmark Dealer,Fourth & Above Owner,287591
+Kia Seltos,2006,219852,Petrol,Manual,Individual,Fourth & Above Owner,1859081
+Honda City,2019,167482,Electric,Automatic,Individual,Fourth & Above Owner,1160669
+Mercedes C-Class,2009,281720,Petrol,Automatic,Dealer,Second Owner,1774446
+Kia Seltos,2012,80842,Electric,Automatic,Trustmark Dealer,First Owner,1747132
+Hyundai i20,2008,197170,Electric,Manual,Individual,Third Owner,369104
+Kia Seltos,2021,53893,CNG,Manual,Trustmark Dealer,Fourth & Above Owner,1486597
+Maruti Swift,2011,6444,LPG,Manual,Dealer,Second Owner,996220
+Ford Mustang,2010,278495,Diesel,Manual,Trustmark Dealer,Third Owner,947105
+Audi Q7,2000,140856,Diesel,Manual,Individual,Third Owner,477928
+Toyota Corolla,2009,201236,Electric,Automatic,Dealer,Fourth & Above Owner,1477213
+Maruti Swift,2007,117778,Petrol,Automatic,Dealer,Fourth & Above Owner,1487550
+Honda City,2009,286700,LPG,Automatic,Individual,Third Owner,1046902
+Honda City,2015,114671,CNG,Automatic,Dealer,Third Owner,1829518
+Honda City,2010,290938,Petrol,Manual,Dealer,Third Owner,1844273
+Hyundai i20,2009,20362,LPG,Automatic,Individual,First Owner,1237881
+Tata Nexon,2004,148157,LPG,Manual,Dealer,First Owner,1212335
+Kia Seltos,2001,5889,CNG,Automatic,Individual,Second Owner,877619
+Maruti Swift,2012,69158,Diesel,Manual,Dealer,Fourth & Above Owner,1509127
+BMW X5,2004,59142,LPG,Manual,Dealer,Third Owner,1255890
+Kia Seltos,2006,296275,Petrol,Manual,Dealer,Fourth & Above Owner,437154
+Mercedes C-Class,2003,118719,Petrol,Automatic,Trustmark Dealer,Second Owner,944886
+Hyundai i20,2013,86441,LPG,Automatic,Individual,Fourth & Above Owner,1622766
+Hyundai i20,2019,101808,Electric,Manual,Trustmark Dealer,First Owner,379622
+Mercedes C-Class,2010,215846,Diesel,Automatic,Dealer,Third Owner,1819038
+Toyota Corolla,2001,41134,Electric,Manual,Individual,Second Owner,371053
+Kia Seltos,2018,298611,CNG,Automatic,Dealer,Third Owner,232267
+Kia Seltos,2008,63563,LPG,Manual,Trustmark Dealer,First Owner,1677595
+BMW X5,2009,238093,LPG,Automatic,Individual,Fourth & Above Owner,704082
+Audi Q7,2008,81088,Petrol,Manual,Trustmark Dealer,Second Owner,747474
+Ford Mustang,2003,34333,LPG,Manual,Trustmark Dealer,Second Owner,332818
+Toyota Corolla,2019,16878,CNG,Automatic,Trustmark Dealer,Fourth & Above Owner,971544
+Ford Mustang,2023,212501,CNG,Automatic,Individual,Second Owner,151963
+Tata Nexon,2022,166445,Petrol,Automatic,Dealer,First Owner,757088
+Honda City,2002,195391,LPG,Automatic,Dealer,Third Owner,1959380
+Kia Seltos,2012,86076,Electric,Automatic,Individual,Fourth & Above Owner,348174
+Toyota Corolla,2018,215322,LPG,Manual,Dealer,Fourth & Above Owner,937961
+BMW X5,2021,153967,Electric,Automatic,Individual,Third Owner,275101
+Mercedes C-Class,2001,260406,CNG,Manual,Dealer,Second Owner,987529
+Ford Mustang,2018,293336,CNG,Manual,Trustmark Dealer,Fourth & Above Owner,1179087
+BMW X5,2021,249851,Electric,Manual,Dealer,First Owner,1828574
+Honda City,2011,130148,Electric,Automatic,Dealer,First Owner,856767
+Hyundai i20,2005,215582,Diesel,Manual,Individual,Second Owner,671920
+Toyota Corolla,2004,85399,CNG,Manual,Individual,Second Owner,1992544
+Hyundai i20,2003,128492,Petrol,Manual,Trustmark Dealer,First Owner,1224835
+Audi Q7,2011,17524,CNG,Manual,Individual,Second Owner,759636
+Maruti Swift,2006,163388,LPG,Automatic,Trustmark Dealer,Fourth & Above Owner,694536
+BMW X5,2014,264119,LPG,Automatic,Individual,Third Owner,1986687
+Ford Mustang,2000,68254,Petrol,Automatic,Individual,First Owner,166307
+Hyundai i20,2000,245827,CNG,Manual,Individual,First Owner,713694
+Ford Mustang,2013,191595,Petrol,Automatic,Trustmark Dealer,Second Owner,1343323
+Honda City,2011,69833,LPG,Automatic,Dealer,Fourth & Above Owner,1199770
+Mercedes C-Class,2003,122761,Electric,Automatic,Trustmark Dealer,First Owner,1673973
+Mercedes C-Class,2020,67591,CNG,Manual,Dealer,Second Owner,1780172
+Ford Mustang,2020,94812,Diesel,Manual,Dealer,First Owner,602376
+Hyundai i20,2003,29919,CNG,Manual,Trustmark Dealer,Third Owner,1491416
+Kia Seltos,2019,15816,Diesel,Automatic,Dealer,Third Owner,312586
+Hyundai i20,2011,25077,CNG,Automatic,Trustmark Dealer,First Owner,190300
+BMW X5,2014,222986,CNG,Automatic,Trustmark Dealer,Third Owner,1022914
+Maruti Swift,2009,130802,CNG,Manual,Trustmark Dealer,First Owner,282713
+Ford Mustang,2004,294984,Diesel,Manual,Dealer,Fourth & Above Owner,1543931
+Kia Seltos,2023,13363,CNG,Automatic,Individual,Second Owner,1671054
+Kia Seltos,2011,215395,CNG,Manual,Dealer,First Owner,1574947
+Tata Nexon,2012,170154,LPG,Automatic,Individual,Third Owner,560206
+Toyota Corolla,2015,172883,CNG,Manual,Dealer,Second Owner,1270638
+Mercedes C-Class,2023,113947,LPG,Manual,Trustmark Dealer,First Owner,1095256
+Maruti Swift,2002,87520,Petrol,Automatic,Individual,Second Owner,849437
+Toyota Corolla,2009,13367,LPG,Automatic,Dealer,Third Owner,1309391
+Hyundai i20,2017,244089,CNG,Automatic,Individual,Second Owner,809904
+Audi Q7,2011,144967,Electric,Manual,Trustmark Dealer,First Owner,1385894
+BMW X5,2011,274258,Electric,Automatic,Individual,Third Owner,276885
+BMW X5,2021,195667,Electric,Automatic,Individual,First Owner,1036788
+Honda City,2004,6279,LPG,Manual,Dealer,Fourth & Above Owner,1080391
+BMW X5,2013,224791,Petrol,Manual,Individual,Third Owner,353878
+BMW X5,2005,91164,Petrol,Automatic,Dealer,Third Owner,1701407
+Kia Seltos,2023,250848,LPG,Manual,Individual,First Owner,1389444
+Tata Nexon,2005,229497,Diesel,Manual,Trustmark Dealer,Third Owner,1452291
+Toyota Corolla,2022,88486,LPG,Manual,Dealer,First Owner,1411098
+Hyundai i20,2017,15010,Petrol,Automatic,Dealer,Third Owner,1438585
+Tata Nexon,2008,254710,Petrol,Manual,Trustmark Dealer,First Owner,1241957
+Hyundai i20,2021,77299,CNG,Automatic,Trustmark Dealer,First Owner,1284053
+Mercedes C-Class,2020,28298,CNG,Automatic,Individual,First Owner,1943305
+Toyota Corolla,2005,122461,CNG,Automatic,Individual,First Owner,1613600
+Hyundai i20,2016,229351,Diesel,Automatic,Trustmark Dealer,Third Owner,1896590
+BMW X5,2023,163660,Electric,Automatic,Dealer,First Owner,397931
+Audi Q7,2016,120296,LPG,Automatic,Dealer,First Owner,773616
+Honda City,2003,153323,Diesel,Automatic,Trustmark Dealer,First Owner,1724885
+Hyundai i20,2017,296662,LPG,Automatic,Dealer,Second Owner,1916437
+Hyundai i20,2015,125017,LPG,Manual,Dealer,Second Owner,932040
+Kia Seltos,2007,31277,CNG,Automatic,Individual,Third Owner,1584424
+Mercedes C-Class,2015,114904,CNG,Automatic,Dealer,Fourth & Above Owner,497673
+Ford Mustang,2001,127507,CNG,Automatic,Dealer,Fourth & Above Owner,231980
+Hyundai i20,2007,83758,LPG,Automatic,Trustmark Dealer,Second Owner,1356370
+Maruti Swift,2008,38089,Diesel,Manual,Trustmark Dealer,Second Owner,1545439
+Tata Nexon,2018,116477,Petrol,Automatic,Trustmark Dealer,Fourth & Above Owner,1495326
+Toyota Corolla,2003,197572,Electric,Automatic,Individual,First Owner,591269
+Honda City,2004,43534,Petrol,Manual,Trustmark Dealer,Third Owner,1211633
+Kia Seltos,2009,207313,CNG,Manual,Dealer,First Owner,1350153
+Kia Seltos,2015,101075,Petrol,Automatic,Individual,First Owner,1568453
+Hyundai i20,2003,175774,Petrol,Manual,Dealer,First Owner,1492108
+Tata Nexon,2015,273204,Electric,Automatic,Dealer,Fourth & Above Owner,1559697
+Hyundai i20,2001,121179,Petrol,Manual,Dealer,Fourth & Above Owner,1394583
+BMW X5,2001,81206,CNG,Automatic,Dealer,Second Owner,1528083
+Tata Nexon,2021,76833,Diesel,Automatic,Dealer,Third Owner,1250680
+Hyundai i20,2014,24883,Petrol,Automatic,Individual,First Owner,1488666
+Honda City,2012,160474,Diesel,Automatic,Dealer,Fourth & Above Owner,1764449
+Tata Nexon,2005,57615,Diesel,Manual,Dealer,Second Owner,619358
+BMW X5,2018,45721,CNG,Automatic,Trustmark Dealer,First Owner,1516202
+Audi Q7,2000,32446,Electric,Manual,Individual,Third Owner,447794
+Audi Q7,2007,83388,CNG,Automatic,Dealer,First Owner,373004
+Kia Seltos,2008,161250,Diesel,Automatic,Trustmark Dealer,Second Owner,1807545
+Mercedes C-Class,2013,70148,Electric,Manual,Individual,Second Owner,1951212
+Hyundai i20,2023,219514,CNG,Manual,Dealer,Fourth & Above Owner,466291
+Mercedes C-Class,2021,120183,Diesel,Manual,Dealer,Second Owner,725483
+BMW X5,2015,161733,Petrol,Manual,Dealer,First Owner,909356
+BMW X5,2019,201293,Electric,Automatic,Trustmark Dealer,Fourth & Above Owner,1723289
+Kia Seltos,2015,46119,CNG,Automatic,Dealer,Second Owner,1025635
+Honda City,2022,186846,CNG,Manual,Dealer,Third Owner,1047821
+Toyota Corolla,2006,33582,Electric,Manual,Individual,Second Owner,462147
+Tata Nexon,2019,72327,CNG,Manual,Trustmark Dealer,Second Owner,782344
+Honda City,2017,6768,CNG,Manual,Trustmark Dealer,Fourth & Above Owner,838972
+Honda City,2007,141480,CNG,Manual,Trustmark Dealer,Third Owner,918810
+Maruti Swift,2014,115958,Petrol,Manual,Individual,Fourth & Above Owner,1779304
+Ford Mustang,2020,261152,CNG,Automatic,Trustmark Dealer,Second Owner,1568980
+Honda City,2011,83981,CNG,Automatic,Individual,Second Owner,403044
+Maruti Swift,2017,228083,Petrol,Manual,Trustmark Dealer,First Owner,1700378
+Honda City,2023,274018,Electric,Manual,Trustmark Dealer,Second Owner,690573
+Maruti Swift,2011,254725,Petrol,Manual,Dealer,First Owner,1921968
+BMW X5,2010,32379,Petrol,Automatic,Individual,First Owner,1147419
+Ford Mustang,2004,273290,CNG,Manual,Dealer,Third Owner,951577
+Kia Seltos,2018,129705,LPG,Automatic,Individual,Second Owner,833924
+BMW X5,2002,32543,LPG,Manual,Individual,First Owner,954366
+Hyundai i20,2021,18687,Electric,Manual,Trustmark Dealer,Second Owner,1631733
+Ford Mustang,2001,73432,LPG,Manual,Trustmark Dealer,First Owner,839398
+Hyundai i20,2020,152838,CNG,Automatic,Dealer,Second Owner,1589093
+Honda City,2020,217349,Petrol,Automatic,Dealer,First Owner,607180
+Hyundai i20,2010,40995,LPG,Manual,Trustmark Dealer,Second Owner,1354377
+Toyota Corolla,2021,129255,LPG,Manual,Trustmark Dealer,First Owner,103926
+Audi Q7,2007,98842,Petrol,Automatic,Trustmark Dealer,Third Owner,1512842
+Toyota Corolla,2020,169332,Petrol,Automatic,Individual,First Owner,1548840
+Kia Seltos,2000,14034,CNG,Manual,Trustmark Dealer,First Owner,355991
+Maruti Swift,2010,21691,LPG,Manual,Dealer,Third Owner,399132
+Tata Nexon,2020,68998,Electric,Manual,Individual,Fourth & Above Owner,160614
+BMW X5,2022,203996,CNG,Automatic,Trustmark Dealer,Fourth & Above Owner,596762
+Ford Mustang,2013,263723,Diesel,Automatic,Individual,Third Owner,1247788
+Toyota Corolla,2007,285250,CNG,Automatic,Dealer,Fourth & Above Owner,125818
+Hyundai i20,2010,25371,CNG,Automatic,Trustmark Dealer,First Owner,1915623
+Kia Seltos,2018,77161,Diesel,Manual,Individual,Fourth & Above Owner,1721785
+Maruti Swift,2023,122745,CNG,Automatic,Trustmark Dealer,Second Owner,828366
+Ford Mustang,2022,215394,Diesel,Automatic,Dealer,Second Owner,1261571
+Ford Mustang,2019,266549,Petrol,Manual,Dealer,Second Owner,1134377
+Mercedes C-Class,2001,222515,Electric,Manual,Individual,First Owner,1896839
+Ford Mustang,2011,132348,Diesel,Automatic,Trustmark Dealer,Second Owner,1107807
+Maruti Swift,2019,142661,CNG,Automatic,Individual,Third Owner,1373200
+Kia Seltos,2008,63685,Petrol,Automatic,Dealer,Third Owner,351708
+Audi Q7,2008,47919,Electric,Manual,Trustmark Dealer,Second Owner,1179312
+Audi Q7,2023,178974,Electric,Automatic,Dealer,First Owner,271831
+Mercedes C-Class,2018,69405,Petrol,Manual,Individual,Second Owner,614135
+BMW X5,2005,171751,Electric,Manual,Individual,Fourth & Above Owner,1218467
+Kia Seltos,2018,260004,LPG,Automatic,Trustmark Dealer,Fourth & Above Owner,1313350
+Tata Nexon,2017,8173,Electric,Manual,Individual,Fourth & Above Owner,1857501
+Audi Q7,2023,192926,Electric,Manual,Trustmark Dealer,Second Owner,1361295
+Ford Mustang,2018,286228,Diesel,Manual,Dealer,Fourth & Above Owner,1642620
+Honda City,2021,104648,LPG,Manual,Individual,Second Owner,665188
+Hyundai i20,2011,95387,LPG,Manual,Trustmark Dealer,Fourth & Above Owner,281629
+Honda City,2021,277619,Petrol,Automatic,Dealer,Fourth & Above Owner,966028
+Toyota Corolla,2012,125152,Electric,Manual,Trustmark Dealer,First Owner,1610150
+Hyundai i20,2000,70829,Diesel,Manual,Individual,Fourth & Above Owner,1790347
+Honda City,2020,211028,Diesel,Automatic,Trustmark Dealer,Third Owner,905688
+Hyundai i20,2000,18121,LPG,Automatic,Individual,First Owner,1595007
+Honda City,2019,62927,Petrol,Automatic,Dealer,Second Owner,1090238
+Toyota Corolla,2009,282702,Petrol,Automatic,Individual,Second Owner,1509187
+Honda City,2003,6857,Petrol,Automatic,Dealer,Fourth & Above Owner,588169
+Hyundai i20,2011,163994,LPG,Manual,Individual,Fourth & Above Owner,1741483
+Ford Mustang,2013,101728,CNG,Automatic,Trustmark Dealer,Second Owner,616670
+Toyota Corolla,2003,26716,Electric,Automatic,Dealer,First Owner,1676639
+Audi Q7,2008,227892,Petrol,Manual,Individual,Third Owner,660511
+Hyundai i20,2012,154664,LPG,Manual,Individual,Third Owner,1770096
+Ford Mustang,2011,193327,Electric,Automatic,Trustmark Dealer,Second Owner,986333
+Hyundai i20,2023,141780,CNG,Automatic,Trustmark Dealer,First Owner,1150081

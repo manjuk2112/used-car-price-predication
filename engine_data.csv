@@ -1,0 +1,7 @@
+car_model,selling_price,year_of_purchase,km_driven,fuel_type,transmission,seller_type,owner,engine_type
+Model A,500000,2018,30000,Petrol,Manual,Dealer,First,Petrol
+Model B,600000,2019,20000,Diesel,Automatic,Individual,Second,Diesel
+Model C,450000,2017,40000,Petrol,Manual,Dealer,First,Petrol
+Model D,700000,2020,15000,Diesel,Automatic,Individual,First,Diesel
+Model E,550000,2016,50000,Petrol,Manual,Dealer,Second,Petrol
+Model F,800000,2021,10000,Diesel,Automatic,Individual,First,Diesel

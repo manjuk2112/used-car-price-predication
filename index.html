@@ -4,73 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Used Car Price Prediction System</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: linear-gradient(135deg, #74b9ff, #a29bfe);
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-        }
 
-        .container {
-            background-color: #fff;
-            padding: 25px 35px;
-            border-radius: 15px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-            width: 380px;
-            text-align: center;
-        }
+    <!-- External CSS file link -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 
-        h2 {
-            color: #2d3436;
-            margin-bottom: 20px;
-        }
-
-        form {
-            display: flex;
-            flex-direction: column;
-        }
-
-        label {
-            font-weight: bold;
-            text-align: left;
-            margin-bottom: 5px;
-            color: #2d3436;
-        }
-
-        input, select {
-            padding: 10px;
-            margin-bottom: 15px;
-            border-radius: 8px;
-            border: 1px solid #b2bec3;
-            font-size: 15px;
-        }
-
-        button {
-            padding: 10px;
-            background-color: #0984e3;
-            color: #fff;
-            font-size: 16px;
-            border: none;
-            border-radius: 8px;
-            cursor: pointer;
-        }
-
-        button:hover {
-            background-color: #74b9ff;
-        }
-
-        .result {
-            margin-top: 20px;
-            font-size: 18px;
-            color: #2d3436;
-            font-weight: bold;
-        }
-    </style>
 </head>
 <body>
 
